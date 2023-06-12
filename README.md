@@ -32,4 +32,4 @@ npm start
 
 ## CodeSandbox
 
-Aplikāciju var arī apskatīt CodeSandbox vidē, noklikšķinot uz saites https://codesandbox.io/s/github/jkristins/WeatherApp.
+Aplikāciju var arī apskatīt CodeSandbox vidē, noklikšķinot uz saites https://codesandbox.io/s/github/Nensija/Weatherapp.
